@@ -10,4 +10,4 @@ O controle das tarefas desse projeto será realizado no GitHub
 - :package: Nova funcionalidade
 - :up: Atualização
 - :bug: Correção de Bug
-- :triangular_flag_on_post: Release
+- :triangular_flag_on_post: Release 
